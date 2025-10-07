@@ -20,7 +20,7 @@ Digunakan untuk menampilkan daftar berisi istilah dan deskripsi.
 Menggunakan :  
 - `<dt>` Untuk term (judul/istilah)
 - `<dd>` Untuk description (penjelasan)
-- 
+
 ![Screenshoot](ScreenShoot_Lab3/DescriptionList.png)
 
 # Membuat Table
