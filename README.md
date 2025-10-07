@@ -26,10 +26,10 @@ Menggunakan :
 # Membuat Table
 Tabel digunakan untuk menampilkan data dalam bentuk baris dan kolom.
 Struktur dasarnya:
-`<table>` → Membuat tabel
-`<tr>` → Table row (baris tabel)
-`<th>` → Table header (judul kolom, biasanya tebal & di tengah)
-`<td>` → Table data (isi sel)
+`<table>` → Membuat tabel  
+`<tr>` → Table row (baris tabel)  
+`<th>` → Table header (judul kolom, biasanya tebal & di tengah)  
+`<td>` → Table data (isi sel)  
 
 ![Screenshoot](ScreenShoot_Lab3/MembuatTable.png)
 
