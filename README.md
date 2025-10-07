@@ -41,3 +41,4 @@ Menggunakan :
 
 
 # Tugas
+![Screenshoot](ScreenShoot_Lab3/Tugas.png)
