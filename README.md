@@ -13,17 +13,31 @@ Digunakan untuk menampilkan daftar berurutan (angka atau huruf), menggunakan tag
 ### Unordered List
 Ordered list digunakan untuk menampilkan daftar tanpa urutan (bullet points), setiap item ditulis dengan tag `<li>`
 
+![Screenshoot](ScreenShoot_Lab3/UnorderedList.png)
+
 ### Description List
 Digunakan untuk menampilkan daftar berisi istilah dan deskripsi.  
 Menggunakan :  
 - `<dt>` Untuk term (judul/istilah)
 - `<dd>` Untuk description (penjelasan)
-
+- 
+![Screenshoot](ScreenShoot_Lab3/DescriptionList.png)
 
 # Membuat Table
 
+![Screenshoot](ScreenShoot_Lab3/MembuatTable.png)
+
 ### Membuat Rowspan
+
+![Screenshoot](ScreenShoot_Lab3/Rowspan.png)
 
 # Membuat Form
 
+![Screenshoot](ScreenShoot_Lab3/MembuatForm.png)
+
 ### Menambahkan CSS pada Table
+
+![Screenshoot](ScreenShoot_Lab3/MenambahCssForm.png)
+
+
+# Tugas
